@@ -1,0 +1,3 @@
+[' ', {'nome': 'Carlos', 'sobrenome': 'Mossoro', 'cargo': 'Gerente'}]
+[' ', {'nome': 'Cleber', 'sobrenome': 'Augusto', 'cargo': 'Caixa'}]
+[' ', {'nome': 'Mario', 'sobrenome': 'Santos', 'cargo': 'Atendente'}]
